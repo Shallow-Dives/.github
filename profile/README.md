@@ -25,7 +25,7 @@ in this organization.
 | MBTA Lite Map              | Project Showcase      | ✅           | ❌          |
 | Hop / RoboForDevs          | Live Workshop         | 🛠️         | ❌          |
 | Game Dev Wizardry          | Local Learning Platform | 🛠️         | ❌          |
-| AI: Zero to Hero           | Interactive Notebooks | 🛠️         | ❌          |
+| Rusty AI: Zero to Hero           | Interactive Books | 🛠️         | ❌          |
 | NPS Trail Quality Analyzer | Data Exploration Dash | ❌           | ❌          |
 | PySpyce VGA Video Card     | Simulated Build       | ❌           | ❌          |
 
